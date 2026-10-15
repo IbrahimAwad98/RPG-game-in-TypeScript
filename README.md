@@ -1,47 +1,39 @@
-# Enkel RPG-spel med TypeScript
+# RPG game in TypeScript
 
-Enkelt RPG-spel byggt med TypeScript. Utforska, strid mot fiender och njut av en klassisk spelupplevelse direkt i webbläsaren.
+A simple RPG game written in TypeScript. Explore, fight enemies, and play a classic role-playing game in the browser.
 
-## Funktioner
-- Utforskning av olika områden
-- Strider mot fiender
-- Samla poäng och hantera din hjälte
-- Klassisk rollspelsatmosfär
+## Features
 
-## Kom igång
+- Explore different areas
+- Fight enemies
+- Collect points and manage your hero
 
-### Klona repot
+## Getting started
+
 ```bash
 git clone https://github.com/IbrahimAwad98/RPG-game-in-TypeScript.git
 cd RPG-game-in-TypeScript
-```
-
-### Installera beroenden
-```bash
 npm install
-```
-
-### Starta spelet
-```bash
 npm start
 ```
-Öppna sedan din webbläsare och navigera till `http://localhost:3000` (eller den port som visas efter start).
 
-## Bygga projektet
+Then open `http://localhost:3000` (or the port shown in the terminal).
+
+Build for production:
+
 ```bash
 npm run build
 ```
 
-## Teknologier
-- **TypeScript** (100%)
-- HTML & CSS
+## Technology
 
-## Bidra
-Bidrag är välkomna! Skapa en pull request eller öppna ett issue om du har förslag eller hittar buggar.
+- TypeScript
+- HTML and CSS
 
-## Licens
-Detta projekt är open source och tillgängligt under MIT-licensen.
+## Contributing
 
----
+Pull requests and issues are welcome.
 
-Lycka till & ha kul!
+## License
+
+MIT
